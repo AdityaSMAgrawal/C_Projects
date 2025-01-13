@@ -25,6 +25,5 @@ int main() {
         continue;
         }
     }
-    //Write your logic to print the tokens of the sentence here.
     return 0;
 }
